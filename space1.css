@@ -1,0 +1,53 @@
+* {margin: 0; padding: 0;}
+body {
+	background-image: url("bg.png");
+	font-family: Tahoma;
+}
+
+.frame{
+	background-color: rgba(0,128,0,0.4);
+	padding-top: 20px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	/* put css-rules in this ccs-block here below */
+	
+}
+
+h1{
+	background-color: rgba(0,32,0,0.4);
+	line-height: 40px;
+	width: 580px;
+	margin: auto;
+	margin-bottom: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	
+	/* put css-rules in this ccs-block here below */
+	
+}
+
+h2 {
+	line-height: 30px;
+	border: 4px solid rgb(128, 0, 128);
+	margin-top: 10px;
+	padding: 1px;
+	padding-left: 20px;
+	/* put css-rules in this ccs-block here below */
+	
+}
+
+p{
+	background-color: rgba(256,256,0,0.4);
+	line-height: 20px;
+	margin-top: 10px;
+	padding: 10px;
+	/* put css-rules in this ccs-block here below */
+
+}
+
+div.Inhoud {
+	 margin: auto;
+	 width: 620px;
+}
